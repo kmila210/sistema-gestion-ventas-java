@@ -1,18 +1,23 @@
-# Sistema de Gestión de Ventas (Java + Hibernate)
+# Sistema de Gestión de Ventas MT´S S.R.L. (Java + Hibernate)
 
-## Descripción del Proyecto
-Desarrollo de una aplicación de escritorio para la gestión integral de ventas y stock. El sistema permite realizar operaciones CRUD completas manteniendo la integridad relacional de los datos.
+##  Proyecto Colaborativo
+Este es un proyecto desarrollado en equipo para la materia **Programación III** (Ingeniería en Informática - UAA).
+* **Integrantes:** Maximo Medina, Camila Tabone, Sebastian Sanabria.
 
-##  Stack Tecnológico
-* **Java:** Lenguaje principal con interfaz gráfica en **Swing**.
-* **Hibernate / JPA:** Framework ORM para el mapeo objeto-relacional.
-* **SQL Server:** Base de datos relacional para la persistencia.
-* **Java Threads:** Implementación de hilos de ejecución para carga de procesos en segundo plano.
+##  Descripción
+Desarrollo de una aplicación de escritorio robusta para la gestión de inventarios y ventas. El sistema se destaca por su arquitectura modular y el uso de un framework ORM para la persistencia de datos.
 
-##  Funcionalidades
-* Gestión de entidades: Clientes, Vendedores, Productos y Pedidos.
-* Interfaz diferenciada por rol de usuario mediante el uso de interfaces en Java.
-* Optimización de la experiencia de usuario (UX) mediante procesos asincrónicos.
+##  Tecnologías Aplicadas
+* **Java Swing:** Desarrollo de la interfaz gráfica de usuario (GUI).
+* **Hibernate / JPA:** Implementación de persistencia y mapeo objeto-relacional.
+* **SQL Server:** Motor de base de datos relacional.
+* **Multi-threading:** Uso de hilos para optimizar procesos de carga y mejorar la fluidez de la interfaz.
+
+##  Mi Contribución
+En este proyecto, participé activamente en:
+* El diseño y mapeo de las entidades relacionales.
+* La implementación de la lógica de persistencia con Hibernate.
+* Documentación técnica del sistema y pruebas de integración.
 
 ---
-*Trabajo realizado para la materia Programación III - Facultad de Ingeniería (UAA).*
+*Este repositorio es una versión del proyecto original para fines de portfolio personal.*
